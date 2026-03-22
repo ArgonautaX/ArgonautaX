@@ -14,8 +14,9 @@
 - 🎓 Estudiante de **Ingeniería de Sistemas (9.º ciclo)**.
 - 💻 Java Backend Developer enfocado en la construcción de **APIs REST con Spring Boot**.
 - 🛠️ Experiencia desarrollando aplicaciones seguras, escalables y listas para producción.
+- 🧪 Aplicación de buenas prácticas y calidad de código mediante **pruebas unitarias y mocking**.
 - 🐧 Usuario de Linux como entorno principal y Docker para contenedorización.
-- 🎯 Actualmente buscando **prácticas profesionales como Backend Developer**.
+- 🎯 Actualmente buscando **prácticas como Backend Developer**.
 
 ---
 
@@ -39,6 +40,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0202?style=for-the-badge&logo=flyway&logoColor=white)
+
+### 🧪 Testing
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-8BC34A?style=for-the-badge&logo=java&logoColor=white)
 
 ### ⚙️ Herramientas y DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
